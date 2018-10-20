@@ -1,4 +1,4 @@
 /**
 * This ia package name.
 */
-package com.exampole;
+package com.example;
